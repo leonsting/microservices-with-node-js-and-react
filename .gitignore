@@ -3,4 +3,10 @@ posts/package-lock.json
 comments/node_modules
 comments/package-lock.json
 client/node_modules
-client/package-lock.json
+client/package-lock.json'
+events-bus/node_modules
+events-bus/package-lock.json
+query/node_modules
+query/package-lock.json
+moderation/node_modules
+moderation/package-lock.json
